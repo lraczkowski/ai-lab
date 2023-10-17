@@ -1,0 +1,55 @@
+body {
+    background-image: url("../Images/WiseTree.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-size: 1em;
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+h1 {
+    background: rgba(20, 150, 20, .6);
+    text-decoration: underline;
+    font-weight: bolder;
+    font-size: 3em;
+}
+
+h2 {
+    background: rgba(20, 150, 20, .6);
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+h3 {
+    background: rgba(20, 150, 20, .6);
+    text-decoration: underline;
+}
+
+p {
+    background: rgba(20, 150, 20, .6);
+}
+
+a {
+    background: rgba(20, 150, 20, .6);
+    color: #FF4500;
+}
+
+.list li {
+    background: rgba(20, 150, 20, .6);
+}
+
+.list ul {
+    list-style-type: circle;
+}
+
+.footer {
+    text-decoration: underline;
+    background: rgba(20, 150, 20, .6);
+}
+
+.SprucePic {
+    max-width: 100%;
+    height: auto;
+}

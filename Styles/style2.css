@@ -1,0 +1,55 @@
+body {
+    font-family: 'Brush Script MT', cursive;
+    margin: 0;
+    padding: 0;
+    background-color: #f3f3f3;
+    font-size: 1em;
+}
+
+.header {
+    background-color: #228B22;
+    color: white;
+    padding: 2em;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+a {
+    text-decoration: none;
+    color: #FF4500;
+}
+
+.Tree2, .Tree22 {
+    background-color: #E0EEE0;
+    padding: 2em;
+    margin: 2em;
+    border: 0.1em solid #228B22;
+}
+
+h2, h3 {
+    color: #228B22;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+p {
+    line-height: 1.5;
+}
+
+.SprucePic {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #228B22;
+}
+
+.footer {
+    background-color: #228B22;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
