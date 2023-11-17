@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    gap: 10px;
+}
+
+#map {
+    flex-grow: 1;
+    height: 300px;
+    width: 100%;
+    border: 1px solid #000;
+}
+
+#drop-area {
+    flex-grow: 1;
+    height: 300px;
+    width: 100%;
+    border: 1px solid #000;
+    position: relative;
+}
+
+button {
+    margin: 10px;
+}
+
+#puzzle-container {
+    height: 300px;
+    width: 100%;
+    border: 1px solid #000;
+}
+
+.puzzlePiece {
+    margin: 10px;
+    cursor: grab;
+}
+
+.puzzlePiece.dragging {
+    opacity: 0.5;
+}
